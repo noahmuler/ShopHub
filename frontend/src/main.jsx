@@ -7,7 +7,7 @@ import "./index.css";
 import axios from "axios";
 import App from "./App";
 
-axios.defaults.baseURL = "https://proshop-ecomerce-app-mern.vercel.app";
+axios.defaults.baseURL = "https://shophub-portfolio-backend.vercel.app/";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <Provider store={store}>
