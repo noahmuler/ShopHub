@@ -1,4 +1,4 @@
-# ShopHub Ecommerce APP
+# ShopHub Ecommerce Webstack Application
 
 > This is an eCommerce webstack application created with MERN (MongoDb, Express, React & Node) Stack. 
 
