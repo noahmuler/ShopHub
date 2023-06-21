@@ -2,7 +2,7 @@
 
 > This is an eCommerce webstack application created with MERN (MongoDb, Express, React & Node) Stack. 
 
-> Application includes: 
+Application includes: 
 - user registration with authentication
 - user with admin access can add new products
 - monitoring order and payment
