@@ -1,7 +1,7 @@
 {
   "name": "proshop-ecomerce-app-mern",
   "version": "1.0.0",
-  "description": "MERN Shopping Cart App ",
+  "description": "MERN Ecommerce App ",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itxSaaad/proshop-ecomerce-app-mern.git"
+    "url": "git+https://github.com/noahmuler/ShopHub.git"
   },
-  "author": "Muhammad Saad",
-  "license": "MIT",
+  "author": "Noah Taddese",
+  "license": "ALX",
   "bugs": {
-    "url": "https://github.com/itxSaaad/proshop-ecomerce-app-mern/issues"
+    "url": "https://github.com/noahmuler/ShopHub/issues"
   },
-  "homepage": "https://github.com/itxSaaad/proshop-ecomerce-app-mern#readme",
+  "homepage": "https://github.com/noahmuler/ShopHub#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
