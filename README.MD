@@ -111,6 +111,6 @@ jane@example.com (Customer)
 ## Author
 
 - Github: [@noahmuler](https://github.com/noahmuler)
-- LinkedIn: [@itxSaaad](https://linkedin.com/in/itxSaaad)
+- LinkedIn: [@noah-taddese](https://www.linkedin.com/in/noah-taddese-094406188)
 
 
