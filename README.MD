@@ -1,8 +1,17 @@
-# ShopHub Ecommerce MERN APP
+# ShopHub Ecommerce APP
 
-> This is an eCommerce web application created with MongoDb, Express, React & Node Stack. It has user authentication system, an admin user who can add new products in the app, check for order and payments and also choose which order has been delivered from the store. It is deployed in Vercel and below you can find the link to visit the app.
+> This is an eCommerce webstack application created with MERN (MongoDb, Express, React & Node) Stack. 
+
+> Application includes: 
+- user registration with authentication
+- user with admin access can add new products
+- monitoring order and payment
+- monitoring which order has been delivered from the store
+
 
 ## Live Preview Project
+
+It is deployed in Vercel and below you can find the link to visit the app.
 
 - Click Production Link Below
   [ShopHub](https://shophub-mern-portfolio.vercel.app/)
@@ -40,14 +49,6 @@
 - Database seeder (Products & Users)
 
 ## Usage
-
-### ES Modules in Node
-
-We use ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag.
-
-Also, when importing a file (not a package), be sure to add .js at the end or you will get a "module not found" error
-
-You can also install and setup Babel if you would like
 
 ### Env Variables
 
@@ -112,5 +113,3 @@ jane@example.com (Customer)
 
 - Github: [@noahmuler](https://github.com/noahmuler)
 - LinkedIn: [@noah-taddese](https://www.linkedin.com/in/noah-taddese-094406188)
-
-
