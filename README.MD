@@ -107,7 +107,6 @@ jane@example.com (Customer)
 123456
 ```
 
-[Login/Register ShopHub](https://shophub-mern-portfolio.vercel.app/register?redirect=/)
 
 ## Author
 
